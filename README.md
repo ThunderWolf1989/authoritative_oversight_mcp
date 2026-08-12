@@ -31,6 +31,8 @@ Two audiences are served by the same underlying corpus:
 
 ### Diagram overview
 
+![Architecture_Diagram](images/aoai_architectural_diagram.png)
+
 **Corpus Updater**
 
 - The Bulk Downloader pulls source documents from GovInfo.gov, alongside the
